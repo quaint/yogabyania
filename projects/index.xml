@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Galeria on Yoga By Ania</title>
-    <link>http://yogabyania.pl/projects/</link>
+    <link>https://quaint.github.io/yogabyania/projects/</link>
     <description>Recent content in Galeria on Yoga By Ania</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl-pl</language>
     
-	<atom:link href="http://yogabyania.pl/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://quaint.github.io/yogabyania/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Studio</title>
-      <link>http://yogabyania.pl/projects/1/</link>
+      <link>https://quaint.github.io/yogabyania/projects/1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://yogabyania.pl/projects/1/</guid>
+      <guid>https://quaint.github.io/yogabyania/projects/1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Studio</title>
-      <link>http://yogabyania.pl/projects/2/</link>
+      <link>https://quaint.github.io/yogabyania/projects/2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://yogabyania.pl/projects/2/</guid>
+      <guid>https://quaint.github.io/yogabyania/projects/2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Studio</title>
-      <link>http://yogabyania.pl/projects/3/</link>
+      <link>https://quaint.github.io/yogabyania/projects/3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://yogabyania.pl/projects/3/</guid>
+      <guid>https://quaint.github.io/yogabyania/projects/3/</guid>
       <description></description>
     </item>
     
