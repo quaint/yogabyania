@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yoga By Ania</title>
-    <link>https://yogabyania.pl/</link>
-    <description>Recent content on Yoga By Ania</description>
+    <title>Anahata Yoga Studio</title>
+    <link>https://anahatayoga.pl/</link>
+    <description>Recent content on Anahata Yoga Studio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pl-pl</language><atom:link href="https://yogabyania.pl/index.xml" rel="self" type="application/rss+xml" />
+    <language>pl-pl</language><atom:link href="https://anahatayoga.pl/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Yoga By Ania</title>
-      <link>https://yogabyania.pl/home/</link>
+      <title>Anahata</title>
+      <link>https://anahatayoga.pl/home/</link>
       <pubDate>Fri, 05 Jun 2020 14:58:38 +0200</pubDate>
       
-      <guid>https://yogabyania.pl/home/</guid>
-      <description>Studio</description>
+      <guid>https://anahatayoga.pl/home/</guid>
+      <description>Yoga Studio</description>
     </item>
     
   </channel>
