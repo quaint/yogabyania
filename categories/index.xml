@@ -4,7 +4,8 @@
     <title>Categories on Anahata Yoga Studio</title>
     <link>https://anahatayoga.pl/categories/</link>
     <description>Recent content in Categories on Anahata Yoga Studio</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>pl-pl</language><atom:link href="https://anahatayoga.pl/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>pl-pl</language>
+    <atom:link href="https://anahatayoga.pl/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
